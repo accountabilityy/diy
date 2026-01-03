@@ -109,7 +109,7 @@ def html_wrapper(title, h1_title, content, current_month, current_q)
         <h1>#{h1_title}</h1>
         #{content}
       </main>
-      <footer>© 2026 Casey Verde ☆ <a href="https://github.com/othercasey/2026_accountability.github.io">This Site</a> ☆ <a href="https://github.com/othercasey/accountability.github.io">DIY</a></footer>
+      <footer>© 2026 Casey Verde ☆ <a href="https://github.com/accountabilityy/funchal">This Site</a> ☆ <a href="https://github.com/accountabilityy/diy">DIY</a></footer>
     </body>
     </html>
   HTML
